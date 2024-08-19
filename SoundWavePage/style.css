@@ -274,7 +274,7 @@ a:hover {
 .discover {
    max-width: 60%;
    color: #ffffff;
-   padding: 0px 50px;
+   padding: 0px 30px;
    display: block;
 }
 .discover h1 {
@@ -286,6 +286,7 @@ a:hover {
    gap: 40px;
    flex-wrap: wrap;
    margin: auto;
+   padding: 20px 0px;
 }
 .discover-icon p {
    font-size: .8em;
